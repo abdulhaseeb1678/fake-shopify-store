@@ -1,4 +1,4 @@
-# Fake Shopify Store 🛍️
+# Shopify Clone 🛍️
 
 A Streamlit-based web app that simulates an e-commerce store. Designed for both learning and practical use.
 
